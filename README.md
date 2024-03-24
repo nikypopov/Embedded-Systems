@@ -1,1 +1,1 @@
-# project(s), hws(s), labs(s), & mini-demos
+# embedded system desgin project(s) and examples(s)
