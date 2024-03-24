@@ -1,4 +1,5 @@
-## embedded system desgin project(s) and examples(s)
+## project(s) and examples(s) 
++some non-embedded systems software (c/c++,rust)
 
 ### directory outline
 - **Kernel-Timers-1**: Linux kernel module to control a software (kernel) timer. Standalone kernel module and a userspace program to communicate with the kernel module.
