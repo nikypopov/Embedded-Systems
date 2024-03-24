@@ -1,1 +1,1 @@
-# Embedded-Systems
+# project(s), hws(s), labs(s), & mini-demos
