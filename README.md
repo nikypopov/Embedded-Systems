@@ -9,3 +9,5 @@
 - **Traffic-Light**: Linux kernel module that controls a model traffic light via the BeagleBone Black’s general-purpose input/output (GPIO) pins.
   
 - **Final-Project**:
+
+- **Graph-Coloring-Project**: 
