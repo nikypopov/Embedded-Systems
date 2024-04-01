@@ -1,7 +1,7 @@
-## project(s) and examples(s) 
+# project(s) and examples(s) 
 some embedded systems softwares pluse other low-mid level language work (c/c++,rust)
 
-### directory outline
+## directory outline
 - **[Kernel-Timers-1](https://github.com/nikypopov/embedded-and-systems/tree/main/Kernel-Timers-1)**: Linux kernel module to control a software (kernel) timer. Standalone kernel module and a userspace program to communicate with the kernel module.
   
 - **[Kernel-Timers-2](https://github.com/nikypopov/embedded-and-systems/tree/main/Kernel-Timers-2)**: Implementation of an asynchronous notification mechanism used to wake up userspace. Implementation of procfs entry.
@@ -10,5 +10,6 @@ some embedded systems softwares pluse other low-mid level language work (c/c++,r
   
 - **Final-Project**: Autonomous rover w/ collision avoidance navigating via sound localization _(coming soon)_
 
-Extra
+### Extra
 - **[Graph-Coloring-Project](https://github.com/nikypopov/GraphColoring)**: Graph coloring program that uses variety of greedy algorithms to color a graph and compares results
+- **[mv-Sensor-Project]()**: 
