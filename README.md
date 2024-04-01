@@ -1,5 +1,5 @@
 # project(s) and examples(s) 
-some embedded systems software pluse other low-mid level language work (c/c++,rust)
+some embedded systems software pluse other low-mid level language work (c/c++,*rust)
 
 ## directory outline
 - **[Kernel-Timers-1](https://github.com/nikypopov/embedded-and-systems/tree/main/Kernel-Timers-1)**: Linux kernel module to control a software (kernel) timer. Standalone kernel module and a userspace program to communicate with the kernel module.
@@ -13,3 +13,5 @@ some embedded systems software pluse other low-mid level language work (c/c++,ru
 ### Extra
 - **[Graph-Coloring-Project](https://github.com/nikypopov/GraphColoring)**: Graph coloring program that uses variety of greedy algorithms to color a graph and compares results
 - **[mv-Sensor-Project](https://github.com/nikypopov/mv-Sensor/tree/main)**: Project whose goal was to create an IMU-based wearable device to assess and optimize biomechanics
+
+_*currently learning! enjoying it alot :)_
