@@ -1,8 +1,8 @@
 Credit to my group member!
 Bailey Brake, bbrake01@bu.edu
 
+### Overview
 The mytraffic.c kernel module is developed for the BeagleBone Black platform, implementing a traffic light control system.
-Features
 
 ### Features
 - GPIO Control: Utilizes GPIO pins to drive LED lights representing the traffic signals (Red, Yellow, Green).
@@ -14,7 +14,7 @@ Features
 - Pedestrian Mode: Incorporates a pedestrian request button. When activated in Normal mode, the system extends the Red light duration to allow pedestrians to cross safely.
 - Character Device Interface: Provides a character device interface, allowing user-space applications to interact with the traffic light controller, read its current state, and adjust settings such as operational mode and cycle rate.
 
-##[Video Demo]()
+##[Video Demo](https://drive.google.com/file/d/18_GiqllerLbfk5ggrCfGPLZQ_byBX0XD/view?usp=share_link)
 Useful Sources
 
 https://lwn.net/Articles/532714/
