@@ -8,7 +8,7 @@ some embedded systems softwares pluse other low-mid level language work (c/c++,r
   
 - **[Traffic-Light](https://github.com/nikypopov/embedded-and-systems/tree/main/Traffic-Light)**: Linux kernel module that controls a model traffic light via the BeagleBone Black’s general-purpose input/output (GPIO) pins.
   
-- **Final-Project**: Autonomous rover w/ collision avoidance navigating via sound localization
+- **Final-Project**: Autonomous rover w/ collision avoidance navigating via sound localization _(coming soon)_
 
 Extra
 - **[Graph-Coloring-Project](https://github.com/nikypopov/GraphColoring)**: Graph coloring program that uses variety of greedy algorithms to color a graph and compares results
