@@ -10,4 +10,5 @@
   
 - **Final-Project**:
 
-- **Graph-Coloring-Project**: 
+Extra
+- **[Graph-Coloring-Project] (https://github.com/nikypopov/GraphColoring)**: Graph coloring program that uses variety of greedy algorithms to color a graph and compares results
