@@ -1,5 +1,5 @@
 # project(s) and examples(s) 
-some embedded systems softwares pluse other low-mid level language work (c/c++,rust)
+some embedded systems software pluse other low-mid level language work (c/c++,rust)
 
 ## directory outline
 - **[Kernel-Timers-1](https://github.com/nikypopov/embedded-and-systems/tree/main/Kernel-Timers-1)**: Linux kernel module to control a software (kernel) timer. Standalone kernel module and a userspace program to communicate with the kernel module.
