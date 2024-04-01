@@ -15,6 +15,7 @@ The mytraffic.c kernel module is developed for the BeagleBone Black platform, im
 - Character Device Interface: Provides a character device interface, allowing user-space applications to interact with the traffic light controller, read its current state, and adjust settings such as operational mode and cycle rate.
 
 ### [Video Demo](https://drive.google.com/file/d/18_GiqllerLbfk5ggrCfGPLZQ_byBX0XD/view?usp=share_link)
+### [Original Repo](https://github.com/nikypopov/535-group)
 
 #### Useful Sources
 
