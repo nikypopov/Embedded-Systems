@@ -18,5 +18,7 @@ The mytraffic.c kernel module is developed for the BeagleBone Black platform, im
 Useful Sources
 
 https://lwn.net/Articles/532714/
+
 https://tldp.org/LDP/lkmpg/2.6/html/lkmpg.html
+
 https://stackoverflow.com/questions/8832298/gpio-access-from-kernel-space
