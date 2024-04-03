@@ -16,4 +16,4 @@ some embedded systems software pluse other low-mid level language work (c/c++,*r
 
 
 
-_*currently learning! enjoying it alot :)_
+_*currently learning_
